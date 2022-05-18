@@ -13,5 +13,7 @@ pip install pyautogui
 ## run
 To run the script download and run [spam.py](https://github.com/pexemo/Python-Spammer/blob/main/spam.py) with python
 ```
+git clone https://github.com/pexemo/Python-Spammer/
+cd Python-Spammer/
 python3 spam.py
 ```
